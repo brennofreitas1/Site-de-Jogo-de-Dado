@@ -58,6 +58,10 @@ main {
   text-align: center;
 }
 
+.dado{
+  font-size: 100px;
+}
+
 .but{
   border-radius: 10px;
   height: 50px;

@@ -2,7 +2,6 @@ const Buttom = document.getElementById('teclar');
 const chamar = document.getElementById('chamar');
 
 const btRodarDado = () => {
-  let img = [num1.png]
   const dado = Math.floor(Math.random() * 6) + 1;
   chamar.innerHTML = dado;
 };
